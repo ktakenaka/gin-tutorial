@@ -40,9 +40,9 @@ require (
 	github.com/ugorji/go v1.2.2 // indirect
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/utrack/gin-csrf v0.0.0-20190424104817-40fb8d2c8fca
-	go.uber.org/goleak v1.1.10
+	go.uber.org/goleak v1.1.11
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
+	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
 	golang.org/x/text v0.3.7
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
