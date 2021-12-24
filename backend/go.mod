@@ -5,7 +5,7 @@ go 1.14
 require (
 	cloud.google.com/go v0.74.0 // indirect
 	github.com/BurntSushi/toml v0.4.1
-	github.com/appleboy/gin-jwt/v2 v2.6.4
+	github.com/appleboy/gin-jwt/v2 v2.8.0
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
 	github.com/dave/jennifer v1.4.1
@@ -13,7 +13,7 @@ require (
 	github.com/dgrijalva/jwt-go v3.2.0+incompatible
 	github.com/gin-contrib/cors v1.3.1
 	github.com/gin-contrib/sessions v0.0.3
-	github.com/gin-gonic/gin v1.7.1
+	github.com/gin-gonic/gin v1.7.7
 	github.com/go-playground/validator/v10 v10.8.0
 	github.com/go-redis/redis v6.15.9+incompatible
 	github.com/gocarina/gocsv v0.0.0-20201208093247-67c824bc04d4
@@ -36,7 +36,6 @@ require (
 	github.com/russross/blackfriday/v2 v2.1.0 // indirect
 	github.com/sirupsen/logrus v1.8.1
 	github.com/stretchr/testify v1.7.0
-	github.com/tidwall/gjson v1.6.7 // indirect
 	github.com/ugorji/go v1.2.2 // indirect
 	github.com/urfave/cli/v2 v2.3.0
 	github.com/utrack/gin-csrf v0.0.0-20190424104817-40fb8d2c8fca
