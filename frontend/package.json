@@ -14,7 +14,7 @@
     "@types/redux-immutable": "^4.0.1",
     "@types/secure-random-string": "^1.1.0",
     "antd": "^4.6.1",
-    "axios": "^0.20.0",
+    "axios": "^0.21.2",
     "formik": "^2.1.5",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
