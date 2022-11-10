@@ -4,7 +4,7 @@ go 1.14
 
 require (
 	cloud.google.com/go v0.74.0 // indirect
-	github.com/BurntSushi/toml v0.4.1
+	github.com/BurntSushi/toml v1.0.0
 	github.com/appleboy/gin-jwt/v2 v2.6.4
 	github.com/coreos/go-oidc v2.2.1+incompatible
 	github.com/cpuguy83/go-md2man/v2 v2.0.0 // indirect
@@ -27,7 +27,7 @@ require (
 	github.com/json-iterator/go v1.1.10 // indirect
 	github.com/kr/text v0.2.0 // indirect
 	github.com/ktakenaka/charsetsupport v0.0.0-20210102133313-914d4adb7e63
-	github.com/nicksnyder/go-i18n/v2 v2.1.2
+	github.com/nicksnyder/go-i18n/v2 v2.2.1
 	github.com/nxadm/tail v1.4.6 // indirect
 	github.com/oklog/ulid/v2 v2.0.2
 	github.com/onsi/ginkgo v1.14.2 // indirect
@@ -42,8 +42,8 @@ require (
 	github.com/utrack/gin-csrf v0.0.0-20190424104817-40fb8d2c8fca
 	go.uber.org/goleak v1.1.10
 	golang.org/x/oauth2 v0.0.0-20201208152858-08078c50e5b5
-	golang.org/x/sync v0.0.0-20201207232520-09787c993a3a
-	golang.org/x/text v0.3.7
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/text v0.4.0
 	golang.org/x/xerrors v0.0.0-20200804184101-5ec99f83aff1
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c // indirect
 	gopkg.in/guregu/null.v4 v4.0.0
